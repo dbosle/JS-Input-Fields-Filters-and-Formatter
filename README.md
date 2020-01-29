@@ -13,7 +13,7 @@ JS HTML Form Input Elements Filters and Formater
 <input type="text" id="priceInput" />
 ```
 
-* Now we can set this html element to accept only the number:
+* Now we can set these html elements to accept only the number:
 ```
 <script>
    setOnlyNumberInput("numberInput"); // => Sets input field only for number
