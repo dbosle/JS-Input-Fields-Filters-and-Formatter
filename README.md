@@ -22,3 +22,10 @@ JS HTML Form Input Elements Filters and Formater
 ```
 
 Now our html input fields only accepts numbers and prices.
+
+
+To Do List:
+* Email Input
+* URL Input
+* Just Text Input
+* Alpha Number Input
