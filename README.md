@@ -1,4 +1,4 @@
-# JS-Input-Fields-Filters-and-Formatter
+# JS Input Fields Filters and Formatter
 JS HTML Form Input Elements Filters and Formater
 
 ## Usage
